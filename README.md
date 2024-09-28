@@ -1,4 +1,4 @@
-🎬 **Top 1000 IMDb Movies Analysis**  
+## 🎬 Top 1000 IMDb Movies Analysis  
 📝 **Project Overview**  
 This project aims to analyze the top 1000 highest-rated movies on IMDb from 1920 to 2020. It explores various factors that influence a movie's success, such as runtime, genre, and certification.
 
