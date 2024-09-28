@@ -25,5 +25,4 @@ This analysis provides valuable insights for movie enthusiasts and industry prof
 
 🔗 **Follow for More**  
 Connect with me on LinkedIn for more projects and insights:
-
 [LinkedIn - Bikash Gupta](https://www.linkedin.com/in/bikashguptabg/)
