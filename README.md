@@ -24,5 +24,5 @@ The dataset consists of 16 attributes, with key columns including:
 This analysis provides valuable insights for movie enthusiasts and industry professionals, highlighting trends in audience preferences and potential predictors of success in filmmaking.
 
 🔗 **Follow for More**  
-Connect with me on LinkedIn for more projects and insights:  
-**LinkedIn** - Bikash Gupta
+Connect with me on LinkedIn for more projects and insights:
+[LinkedIn - Bikash Gupta](https://www.linkedin.com/in/bikashguptabg/)
